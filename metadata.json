@@ -1,0 +1,5 @@
+{
+  "name": "AI Trip Planner Chat",
+  "description": "A chat application that helps users plan their trips with an AI assistant, powered by Gemini.",
+  "requestFramePermissions": []
+}
